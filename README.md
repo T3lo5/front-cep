@@ -13,10 +13,12 @@ Antes de começar, certifique-se de que você tenha instalado o Node.js e o Vue 
 
 ## Configuração do Projeto
 
+### Não se esqueça de clonar também o backend em https://github.com/T3lo5/backend-cep
+
 Clone este repositório em sua máquina local:
 
 ````bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/t3lo5/front-cep
 ````
 
 Acesse o diretório do projeto:
@@ -32,6 +34,9 @@ npm install
 ````
 
 ## Executando o Projeto
+
+### IMPORTANTE, iniciei primeiro o backend 
+
 Para iniciar o servidor de desenvolvimento e visualizar a aplicação no navegador, utilize o seguinte comando:
 
     npm run serve
